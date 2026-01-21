@@ -1,0 +1,17 @@
+{
+  "name": "backend_pro",
+  "version": "1.0.0",
+  "description": "a project from yt tutorial",
+  "keywords": [
+    "node",
+    "js",
+    "backend"
+  ],
+  "license": "ISC",
+  "author": "rishan veigas",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
